@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="keyhold" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="keyhold" />
+    <working_directory value="$PROJECT_DIR$" />
+    <EXTENSION ID="com.fapiko.jetbrains.plugins.better_direnv.runconfigs.GolandRunConfigurationExtension">
+      <option name="DIRENV_ENABLED" value="false" />
+      <option name="DIRENV_TRUSTED" value="false" />
+    </EXTENSION>
+    <kind value="PACKAGE" />
+    <package value="keyhold/cmd/keyhold" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/keyhold/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
